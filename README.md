@@ -29,8 +29,8 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/realtime-sign-language-detection.git
-cd realtime-sign-language-detection
+git clone https://github.com/mrbaiel/Realtime-sign-language-detection.git
+cd Realtime-sign-language-detection
 
 Create a virtual environment:
 
