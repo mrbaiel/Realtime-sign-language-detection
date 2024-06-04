@@ -1,3 +1,4 @@
+#The project has not been completed yet
 Real-Time Sign Language Detection
 
 This project aims to detect and translate sign language gestures into text in real-time using a camera.
